@@ -1,0 +1,3 @@
+Rust procedural macros (proc macro) have emerged as a game-changer in the world of programming, empowering developers to extend the capabilities of the Rust language itself. If you’re a beginner eager to learn about Rust procedural macros and their practical applications, you’ve come to the right place. In this comprehensive beginner’s guide, we will explore the ins and outs of Rust procedural macros and demonstrate their usage through the creation of a powerful JSON derive macro.
+
+Ref : https://blog.devgenius.io/a-beginners-guide-to-rust-procedural-macros-creating-a-json-derive-macro-eb44279e7244
