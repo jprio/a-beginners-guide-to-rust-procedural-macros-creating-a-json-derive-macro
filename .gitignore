@@ -1,2 +1,6 @@
 /json-derive/target
 /json-derive/Cargo.lock
+/json-trait/target
+/json-trait/Cargo.lock
+/test-derive/target
+/test-derive/Cargo.lock
